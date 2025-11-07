@@ -37,7 +37,7 @@ Python · Pandas · Scikit-Learn (v1.4.2) · Seaborn · Matplotlib
 | Recall | 0.79 |
 | ROC-AUC | (check figure below) |
 
-![ROC Curve](assets/roc_curve.png)
+![ROC Curve](Assets/roc_curve.png)
 
 ---
 
@@ -51,7 +51,7 @@ Python · Pandas · Scikit-Learn (v1.4.2) · Seaborn · Matplotlib
 ## 🧩 Model Explainability
 The top predictive factors are visualized below:
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](Assets/feature_importance.png)
 
 ---
 
