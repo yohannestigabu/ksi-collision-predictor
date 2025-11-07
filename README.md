@@ -7,7 +7,7 @@
 *A Machine Learning project by Yohannes Tigabu*
 
 ### 🔗 Live Demo  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yohannestigabu-ksi-collision-predictor.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yohannestigabu/ksi-collision-predictor/main/app/app.py)
 
 > Predict whether a Toronto traffic collision will result in a **Fatal** or **Non-Fatal Injury** using open police data.  
 > Built with **Python · Scikit-Learn · Pandas · Streamlit** and deployed on **Streamlit Cloud**.
