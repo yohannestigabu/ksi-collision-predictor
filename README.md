@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4.2-orange?logo=scikitlearn)
+![Open Data](https://img.shields.io/badge/Open%20Data-Toronto-lightgrey)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 # 🚗 KSI Collision Predictor
 *A machine learning project by Yohannes Tigabu*
 
