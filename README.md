@@ -3,13 +3,14 @@
 ![Open Data](https://img.shields.io/badge/Open%20Data-Toronto-lightgrey)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-# 🚗 KSI Collision Predictor
-*A machine learning project by Yohannes Tigabu*
-### 🔗 Live Demo  
-👉 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yohannestigabu-ksi-collision-predictor.streamlit.app)
+# 🚗 KSI Collision Severity Predictor  
+*A Machine Learning project by Yohannes Tigabu*
 
-Predicting the **severity of traffic collisions** in Toronto  
-using open data from the **Toronto Police Service (KSI dataset)**.
+### 🔗 Live Demo  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yohannestigabu-ksi-collision-predictor.streamlit.app)
+
+> Predict whether a Toronto traffic collision will result in a **Fatal** or **Non-Fatal Injury** using open police data.  
+> Built with **Python · Scikit-Learn · Pandas · Streamlit** and deployed on **Streamlit Cloud**.
 
 ---
 
