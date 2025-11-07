@@ -41,6 +41,11 @@ Python · Pandas · Scikit-Learn (v1.4.2) · Seaborn · Matplotlib
 
 ---
 
+### 🧮 Confusion Matrix
+![Confusion Matrix](Assets/confusion_matrix.png)
+
+---
+
 ## 🔍 Key Insights
 - **Lighting conditions** and **road class** strongly influence severity.  
 - **Poor visibility** and **wet road surfaces** increase fatal risk.  
