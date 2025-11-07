@@ -6,7 +6,7 @@
 # 🚗 KSI Collision Predictor
 *A machine learning project by Yohannes Tigabu*
 ### 🔗 Live Demo  
-👉 [Open the Interactive App]([https://yohannestigabu-ksi-collision-predictor.streamlit.app](https://ksi-collision-predictor.streamlit.app/))  
+👉 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yohannestigabu-ksi-collision-predictor.streamlit.app)
 
 Predicting the **severity of traffic collisions** in Toronto  
 using open data from the **Toronto Police Service (KSI dataset)**.
